@@ -1,0 +1,2 @@
+Contenu de feature B
+Deuxième modification de feature B
